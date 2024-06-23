@@ -60,7 +60,7 @@ For this project, I used Tableau as the primary tool for data analysis and visua
 
 7. **Total Sales Over Time**: A line chart showing the total sales over time.
  
-
+![Screenshot (9)](https://github.com/Analystlekan/House-sales-analysis/assets/172055479/6594e309-4a98-4814-a9ee-bb9c7f86a900)
 ## Conclusion
 
 This data analysis project in Tableau provides valuable insights into the King County housing market. The interactive visualizations help in understanding the trends, distributions, and key factors affecting house prices and sales. By the end of the project, we aim to uncover actionable recommendations that can drive informed decision-making and strategic planning in the real estate market, all within the user-friendly environment of Tableau.
